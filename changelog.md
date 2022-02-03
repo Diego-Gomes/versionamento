@@ -13,3 +13,9 @@ e este projeto segue o [Semantic Versioning](https://semver.org/spec/v2.0.0.html
 ## [1.0.0] - 2022-02-01
 ### Added
 - Publicação da nova versão da API.
+
+## [1.1.0] - 2022-02-02
+### Added
+- Adicionado o endpoint para inclusão de uma cotação 
+- Adicionado o endpoint para exclusão de uma cotação.
+- Adicionado o endpoint para alteração de uma cotação.
