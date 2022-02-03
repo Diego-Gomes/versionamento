@@ -7,7 +7,7 @@ app = FastAPI(title="API Example de versionamento")
 
 BASE_PATH_HTTP = "/versionamento" 
 
-API_VERSION = "v1.0.1"
+API_VERSION = "v1.1.0"
 
 app = config.configurar_rotas(app)
 
