@@ -5,7 +5,6 @@ O formato esta baseado no [Keep a Changelog](https://keepachangelog.com/en/1.0.0
 e este projeto segue o [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-- Alteração do endpoint de consultar cotação, para retornar os dados do proponente.
 
 ## [1.0.0] - 2022-02-01
 ### Added
@@ -16,3 +15,7 @@ e este projeto segue o [Semantic Versioning](https://semver.org/spec/v2.0.0.html
 - Adicionado o endpoint para inclusão de uma cotação 
 - Adicionado o endpoint para exclusão de uma cotação.
 - Adicionado o endpoint para alteração de uma cotação.
+
+## [2.0.0] - 2022-02-03
+### Changed
+- Alterado o endpoint de consultar cotação, para retornar os dados do proponente.
